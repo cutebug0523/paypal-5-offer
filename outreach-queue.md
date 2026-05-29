@@ -10,6 +10,30 @@ PayPal:
 
 ## Priority 1 - Recent High Intent
 
+### 0. Reddit - Drop Your Startup, Featured In Newsletter
+
+Thread:
+https://www.reddit.com/r/SaaSSolopreneurs/comments/1t9to7v/drop_your_startup_and_be_featured_in_this_weeks/
+
+Why this is good:
+- Published around mid-May 2026.
+- The thread explicitly asks people to drop startup links.
+- The audience is solopreneurs, who are likely to care about landing page feedback.
+
+Suggested comment:
+
+$5 Landing Page Teardown
+
+I am testing a tiny manual service for solo founders and indie makers:
+
+Send your landing page, offer, creator bio, or product blurb. I will send one quick free note if I can spot it fast. For $5, I send 7 concrete fixes within 24 hours.
+
+The focus is not design taste. It is clarity, proof, CTA friction, pricing confidence, and whether the page makes the next action obvious.
+
+Link: https://cutebug0523.github.io/paypal-5-offer/
+
+Payment is via PayPal after someone wants the full 7-fix teardown.
+
 ### 1. Reddit - BrandToAds Landing Page Roast
 
 Thread:
@@ -67,9 +91,36 @@ I would use a simple loop:
 
 I am testing a tiny manual version of this too: one quick free note, or 7 concrete fixes for $5: https://cutebug0523.github.io/paypal-5-offer/
 
+### 4. Reddit - Pitch Your Product And Share URL
+
+Thread:
+https://www.reddit.com/r/buildinpublic/comments/1sq1clk/lets_get_your_first_customerpitch_your_product/
+
+Why this is good:
+- Published April 2026.
+- The thread asks people to pitch their product and share URL.
+- The stated goal is getting a first customer.
+
+Suggested comment:
+
+Tiny offer for founders who are stuck before their first few customers:
+
+I will review your landing page, product blurb, SaaS page, or creator bio and send 7 concrete fixes for $5.
+
+What I look for:
+- Can a stranger understand the offer in 5 seconds?
+- Is the CTA specific enough?
+- Is there enough proof to reduce doubt?
+- Does the page show the actual output/result?
+- Is the price or next action creating friction?
+
+I am also giving one quick free note first if I can spot something obvious.
+
+Link: https://cutebug0523.github.io/paypal-5-offer/
+
 ## Priority 2 - Older But Still Relevant
 
-### 4. Reddit - Roast My Landing Page, SaaS-Scientist
+### 5. Reddit - Roast My Landing Page, SaaS-Scientist
 
 Thread:
 https://www.reddit.com/r/micro_saas/comments/1so7eyp/roast_my_landing_page_brutal_and_frank_feedback/
@@ -93,7 +144,7 @@ One more thing: if several people said it looks vibe-coded, that may mean the pa
 
 I do tiny teardown passes like this here: https://cutebug0523.github.io/paypal-5-offer/
 
-### 5. Reddit - Drop Your SaaS And I'll Give Honest Feedback
+### 6. Reddit - Drop Your SaaS And I'll Give Honest Feedback
 
 Thread:
 https://www.reddit.com/r/SaaS/comments/1qp6t68/drop_your_saas_and_ill_give_you_honest_feedback/
