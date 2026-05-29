@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$5 Landing Page Teardown</title>
+  <meta name="description" content="Get 7 sharp, practical fixes for your landing page, offer, bio, or product blurb within 24 hours.">
+  <meta property="og:title" content="$5 Landing Page Teardown">
+  <meta property="og:description" content="Send your page or offer. Get 7 practical fixes within 24 hours.">
+  <meta property="og:image" content="teardown-promo.png">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,650;9..144,800&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
+
+    :root {
+      --ink: #171511;
+      --paper: #f7f1e5;
+      --copper: #b95f34;
+      --moss: #486b4d;
+      --blue: #2f5f8a;
+      --line: rgba(23, 21, 17, 0.18);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--ink);
+      font-family: "IBM Plex Sans", sans-serif;
+      background:
+        linear-gradient(90deg, rgba(23, 21, 17, 0.035) 1px, transparent 1px) 0 0 / 34px 34px,
+        linear-gradient(rgba(23, 21, 17, 0.035) 1px, transparent 1px) 0 0 / 34px 34px,
+        var(--paper);
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      opacity: 0.2;
+      background-image:
+        radial-gradient(circle at 20% 15%, rgba(185, 95, 52, 0.35), transparent 28%),
+        radial-gradient(circle at 88% 18%, rgba(47, 95, 138, 0.25), transparent 24%),
+        radial-gradient(circle at 72% 82%, rgba(72, 107, 77, 0.28), transparent 28%);
+      filter: blur(2px);
+    }
+
+    h1,
+    h2,
+    .display {
+      font-family: "Fraunces", Georgia, serif;
+    }
+
+    .stamp {
+      transform: rotate(-2deg);
+      box-shadow: 8px 8px 0 rgba(23, 21, 17, 0.12);
+    }
+
+    .price-tag {
+      clip-path: polygon(0 0, 88% 0, 100% 50%, 88% 100%, 0 100%);
+    }
+
+    .paper-card {
+      border: 1px solid var(--line);
+      background: rgba(255, 251, 242, 0.78);
+      box-shadow: 0 24px 70px rgba(23, 21, 17, 0.12);
+      backdrop-filter: blur(12px);
+    }
+
+    .pay-button {
+      transition: transform 180ms ease, box-shadow 180ms ease;
+    }
+
+    .pay-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 16px 34px rgba(47, 95, 138, 0.25);
+    }
+
+    .pay-button:focus-visible {
+      outline: 3px solid rgba(47, 95, 138, 0.42);
+      outline-offset: 4px;
+    }
+
+    .tear-line {
+      background-image: linear-gradient(90deg, var(--line) 50%, transparent 0);
+      background-size: 12px 1px;
+    }
+  </style>
+</head>
+<body>
+  <main class="relative mx-auto flex min-h-screen w-full max-w-6xl flex-col px-5 py-6 sm:px-8 lg:px-10">
+    <header class="flex items-center justify-between gap-4 border-b border-[rgba(23,21,17,0.18)] pb-4">
+      <div class="flex items-center gap-3">
+        <div class="flex h-10 w-10 items-center justify-center border border-[rgba(23,21,17,0.28)] bg-[#fff7e8] text-lg">
+          <i class="fa fa-search"></i>
+        </div>
+        <div>
+          <p class="text-sm font-bold uppercase tracking-[0.18em] text-[#486b4d]">Fast Offer Clinic</p>
+          <p class="text-xs font-medium uppercase tracking-[0.16em] text-[#6b6256]">24-hour micro teardown</p>
+        </div>
+      </div>
+      <a class="hidden items-center gap-2 text-sm font-bold text-[#2f5f8a] underline decoration-2 underline-offset-4 sm:flex" href="mailto:479316201@qq.com?subject=$5%20teardown%20question">
+        <i class="fa fa-envelope-o"></i>
+        Ask first
+      </a>
+    </header>
+
+    <section class="grid flex-1 items-center gap-8 py-8 lg:grid-cols-[1.05fr_0.95fr] lg:py-12">
+      <div>
+        <div class="stamp mb-8 inline-flex items-center gap-3 border-2 border-[#b95f34] bg-[#fff7e8] px-4 py-2 text-sm font-black uppercase tracking-[0.22em] text-[#b95f34]">
+          <i class="fa fa-bolt"></i>
+          $5 today
+        </div>
+
+        <h1 class="max-w-3xl text-[clamp(3rem,8vw,7rem)] font-extrabold leading-[0.88]">
+          I will find 7 fixes for your landing page.
+        </h1>
+
+        <p class="mt-6 max-w-2xl text-xl font-medium leading-8 text-[#3c3831]">
+          Send me your landing page, Gumroad page, X bio, app description, or sales blurb. I will reply with 7 specific changes that can make the offer clearer, sharper, and easier to buy.
+        </p>
+
+        <div class="mt-8 overflow-hidden rounded-lg border border-[rgba(23,21,17,0.18)] bg-[#fffaf0] shadow-xl shadow-black/10">
+          <img class="h-auto w-full" src="teardown-promo.png" alt="$5 Landing Page Teardown promo image showing a marked up page and 7 fixes in 24 hours">
+        </div>
+
+        <div class="mt-8 flex flex-wrap gap-3">
+          <span class="border border-[rgba(23,21,17,0.22)] bg-[#fffaf0] px-4 py-2 text-sm font-bold"><i class="fa fa-check mr-2 text-[#486b4d]"></i>Manual review</span>
+          <span class="border border-[rgba(23,21,17,0.22)] bg-[#fffaf0] px-4 py-2 text-sm font-bold"><i class="fa fa-check mr-2 text-[#486b4d]"></i>24-hour delivery</span>
+          <span class="border border-[rgba(23,21,17,0.22)] bg-[#fffaf0] px-4 py-2 text-sm font-bold"><i class="fa fa-check mr-2 text-[#486b4d]"></i>No call needed</span>
+        </div>
+      </div>
+
+      <aside class="paper-card rounded-lg p-5 sm:p-7">
+        <div class="mb-5 flex items-start justify-between gap-4">
+          <div>
+            <p class="text-sm font-black uppercase tracking-[0.2em] text-[#486b4d]">One-page teardown</p>
+            <h2 class="mt-2 text-4xl font-extrabold leading-none">$5</h2>
+          </div>
+          <div class="price-tag bg-[#b95f34] py-3 pl-4 pr-8 text-sm font-black uppercase tracking-[0.18em] text-white">
+            PayPal
+          </div>
+        </div>
+
+        <div class="tear-line my-5 h-px"></div>
+
+        <ul class="space-y-4 text-base font-medium leading-6">
+          <li class="flex gap-3">
+            <i class="fa fa-dot-circle-o mt-1 text-[#b95f34]"></i>
+            <span>7 concrete fixes for headline, proof, CTA, pricing, friction, audience fit, and next step.</span>
+          </li>
+          <li class="flex gap-3">
+            <i class="fa fa-dot-circle-o mt-1 text-[#b95f34]"></i>
+            <span>Plain English notes you can apply immediately. No fluffy audit deck.</span>
+          </li>
+          <li class="flex gap-3">
+            <i class="fa fa-dot-circle-o mt-1 text-[#b95f34]"></i>
+            <span>Delivered by email within 24 hours after payment and link submission.</span>
+          </li>
+        </ul>
+
+        <form class="mt-7" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+          <input type="hidden" name="cmd" value="_xclick">
+          <input type="hidden" name="business" value="479316201@qq.com">
+          <input type="hidden" name="item_name" value="$5 Landing Page Teardown">
+          <input type="hidden" name="amount" value="5.00">
+          <input type="hidden" name="currency_code" value="USD">
+          <input type="hidden" name="no_shipping" value="1">
+          <input type="hidden" name="return" value="mailto:479316201@qq.com?subject=My%20link%20for%20the%20$5%20teardown">
+          <button class="pay-button flex w-full items-center justify-center gap-3 rounded-md bg-[#2f5f8a] px-5 py-4 text-lg font-black text-white" type="submit">
+            <i class="fa fa-paypal"></i>
+            Pay $5 with PayPal
+          </button>
+        </form>
+
+        <p class="mt-4 text-sm leading-6 text-[#5f574d]">
+          After payment, email your link and 1 sentence about what you want people to do next to <a class="font-bold text-[#2f5f8a] underline underline-offset-4" href="mailto:479316201@qq.com?subject=My%20link%20for%20the%20$5%20teardown">479316201@qq.com</a>.
+        </p>
+      </aside>
+    </section>
+
+    <section class="grid gap-4 border-t border-[rgba(23,21,17,0.18)] py-6 md:grid-cols-3">
+      <div>
+        <p class="display text-2xl font-extrabold">1. Pay</p>
+        <p class="mt-2 text-sm font-medium leading-6 text-[#5f574d]">Use the PayPal button. It opens PayPal in a new tab.</p>
+      </div>
+      <div>
+        <p class="display text-2xl font-extrabold">2. Send</p>
+        <p class="mt-2 text-sm font-medium leading-6 text-[#5f574d]">Email your page, offer, bio, or product description.</p>
+      </div>
+      <div>
+        <p class="display text-2xl font-extrabold">3. Fix</p>
+        <p class="mt-2 text-sm font-medium leading-6 text-[#5f574d]">Receive 7 actionable edits within 24 hours.</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
