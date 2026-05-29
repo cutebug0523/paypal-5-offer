@@ -2,11 +2,11 @@
 
 ## Short Post
 
-I'm doing a simple $5 micro-service today:
+I'm doing a simple $5 micro-service today, with one free note first:
 
 Send me your landing page, Gumroad page, X bio, app description, or sales blurb.
 
-I'll reply within 24 hours with 7 concrete fixes for:
+I'll send one quick free note if I can spot it fast. For $5, I'll reply within 24 hours with 7 concrete fixes for:
 - headline clarity
 - offer positioning
 - CTA friction
@@ -15,41 +15,41 @@ I'll reply within 24 hours with 7 concrete fixes for:
 - audience fit
 - next-step clarity
 
-PayPal: 479316201@qq.com
+Full teardown payment: PayPal to 479316201@qq.com
 
-After payment, email the link and 1 sentence about the action you want people to take.
+For the free note, email the link. For the full review, pay first, then email the link and 1 sentence about the action you want people to take.
 
 ## Reddit / Forum Version
 
-Title: I will review your landing page or offer and send 7 concrete fixes for $5
+Title: I will give one quick note on your landing page, or 7 concrete fixes for $5
 
 Body:
 
 I'm offering a small manual teardown for founders, indie makers, creators, and freelancers.
 
-For $5, send me one of these:
+Send me one of these:
 - landing page
 - Gumroad / Lemon Squeezy page
 - app store description
 - X / LinkedIn bio
 - product or service blurb
 
-I will reply within 24 hours with 7 specific changes you can make. I focus on clarity, audience fit, proof, CTA, pricing confidence, and obvious friction.
+I'll send one quick free note if I can spot it fast. For $5, I will reply within 24 hours with 7 specific changes you can make. I focus on clarity, audience fit, proof, CTA, pricing confidence, and obvious friction.
 
 This is not a full brand strategy audit. It is a quick practical pass meant to give you edits you can actually use today.
 
-Payment: PayPal to 479316201@qq.com
+Full teardown payment: PayPal to 479316201@qq.com
 
-After payment, email:
+For the full paid teardown, after payment, email:
 1. Your link or text
 2. The audience
 3. What action you want people to take
 
 ## Direct Message Version
 
-Hey, I noticed your page/offer and had a couple of quick thoughts. I'm doing a $5 micro teardown today: 7 concrete fixes for a landing page, bio, or product blurb within 24 hours.
+Hey, I noticed your page/offer and had one quick thought: [insert specific free note].
 
-If useful, send the page and pay $5 via PayPal to 479316201@qq.com. I'll reply with the notes by email.
+I'm doing a $5 micro teardown today: 7 concrete fixes for a landing page, bio, or product blurb within 24 hours. If useful, pay $5 via PayPal to 479316201@qq.com and email the page. I'll reply with the notes by email.
 
 ## Delivery Template
 
